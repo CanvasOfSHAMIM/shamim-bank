@@ -10,12 +10,11 @@ body{
 #transaction-area{
     display: none;
 }
-.status{
-    margin: 0 20px;
+.status {
     color: white;
+    margin: 20px;
     padding: 20px;
     border-radius: 10px;
-
 }
 .deposit{
     background-color: slateblue;
